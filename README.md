@@ -9,7 +9,7 @@ Goals :
 - Handle NULL values and blank values
 - Remove any columns
 
-Insights :
+Insights :  
 Following the data cleaning process in MySQL, the dataset has been successfully refined to eliminate duplicate records, address missing values in critical fields, and correct formatting inconsistencies. We have standardized and cleaned essential columns, including total_laid_off, percentage_laid_off, and date. This enhanced dataset now serves as a solid and reliable foundation for deeper analysis, enabling us to effectively identify layoff trends across various industries, time periods, and regions.
 
 Conclusion :  
